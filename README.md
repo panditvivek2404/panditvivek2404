@@ -23,7 +23,7 @@
 
 ## 📂 Projects
 
-- [🗄️ Music-Store-DataAnalysis-SQL](#)
+- [🗄️ Music-Store-Data-Analysis-SQL](#)
 - https://github.com/panditvivek2404/Music-Store-Data-Analysis-SQL-
   Performed data analysis using complex SQL queries.
 
